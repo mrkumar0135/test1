@@ -1,0 +1,7 @@
+
+Probability distribution as follows:
+
+PD of students failing in 0 subjects = 80/100 = 0.8
+PD of students failing in 1 subject = 10/100 = 0.1
+PD of students failing in 2 subjects = 7/100 = 0.07
+PD of students failing in 3 subjects = 3/100 = 0.03

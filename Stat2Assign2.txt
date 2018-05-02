@@ -1,0 +1,11 @@
+
+SOln:
+
+ Number of tials: n =50
+ Number of success in n trials: k =5
+ Number of failures: n-k = 45
+ 
+ Probability of success (s) ie getting 'D' s = 1/5 = 0.2
+ Probablility of failure (1-s) ie not getting 'D' = (1 -1/5) = 4/5 = 0.8
+
+

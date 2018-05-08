@@ -1,0 +1,25 @@
+Solution:
+
+X-value:
+
+Z = (1100-mean)/sigma
+
+Mean in z-score equation:
+
+Z = (1100 - 1026)/sigma
+
+
+standard deviation, sigma in z-score equation:
+
+Z = (1100-1026)/209 = 0.354066
+
+this score 0.354066 SD is above mean
+
+
+z-value in z-table to find % of test-takers scored below 0.354066
+
+z-score of 0.354066 = 0.6368 = 63.68%
+
+----------------------------
+
+

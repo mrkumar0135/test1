@@ -1,0 +1,42 @@
+Solution:
+
+Assume P1 = the proportion of Republican voters in the first state
+       P2 = the proportion of Republican voters in the second state
+       p1 = the proportion of Republican voters in the sample from the first state
+       p2 = the proportion of Republican voters in the sample from the second state
+
+No of voters sampled from the first state (n1) = 100
+No of voters sampled from the second state (n2) = 100
+
+The solution involves four steps.
+
+n1P1 = 100 * 0.52 = 52
+n1(1 - P1) = 100 * 0.48 = 48
+n2P2 = 100 * 0.47 = 47
+n2(1 - P2) = 100 * 0.53 = 53 
+
+All greater than 10, so the sample size is large
+
+Mean of the difference in sample proportions: E(p1 - p2) = P1 - P2 = 0.52 - 0.47 = 0.05.
+
+Standard Deviation of the difference
+sigma(d) = square root( [ P1(1 - P1) / n1 ] + [ P2(1 - P2) / n2 ] )
+sigma(d) = square root ( [ (0.52)(0.48) / 100 ] + [ (0.47)(0.53) / 100 ] )
+sigma(d) = square root (0.002496 + 0.002491) = sqrt(0.004987) = 0.0706
+
+probability:
+
+probability that p1 is less than p2 ie (probability that p1 - p2 < 0) 
+
+z score value of random variable (p1-p2):
+
+
+z p1 - p2 = (x - mean p1 - p2 ) / sigmad = = (0 - 0.05)/0.0706 = -0.7082
+
+
+Trek's Normal Distribution Calculator: the probability of a z-score being -0.7082 or less is 0.24.
+
+
+Hence, the probability that the survey will show a greater percentage of Republican voters in the second state than in the first state is 0.24
+
+--------------------------------

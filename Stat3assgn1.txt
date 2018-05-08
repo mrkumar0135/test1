@@ -1,0 +1,19 @@
+Soln:
+
+ H0= 100
+ H1 = H0>100
+
+assumption= 0.05 (5% as significance level)
+
+z score in z-table:
+
+(z score)z=(x-mean)/SD
+
+z= (108-100)/(15/squareroot(36) = 3.20
+
+p-value associated with 3.20 = 0.993(probality of having value less than 108 is 0.9993)
+
+
+probability of null hypotheis is less than 0.05 (5%). hence it is rejected
+
+--------------------------------
